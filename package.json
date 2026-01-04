@@ -1,0 +1,17 @@
+{
+  "name": "learn-release-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.24.0",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^10.0.4",
+    "release-it": "^19.2.2"
+  }
+}
