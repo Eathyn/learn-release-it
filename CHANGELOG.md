@@ -1,5 +1,20 @@
 # Changelog
 
+# [1.2.0](https://eathyn/Eathyn/learn-release-it/compare/v1.1.0...v1.2.0) (2026-01-04)
+
+
+### Bug Fixes
+
+* 1 ([462c183](https://eathyn/Eathyn/learn-release-it/commits/462c18324780ffc83fbff2d17d05c5395e518e56))
+* 2 ([0e2f558](https://eathyn/Eathyn/learn-release-it/commits/0e2f55803b9d81c7eab3be838d0341ed7281c9ec))
+* branch name ([f3dd154](https://eathyn/Eathyn/learn-release-it/commits/f3dd1545cedc8fbc0fd7e74b446de48522694c57))
+
+
+### Features
+
+* 1 ([6a86906](https://eathyn/Eathyn/learn-release-it/commits/6a869066236a42bb0730ca63a725473bcd43ffa6))
+* 2 ([6193f5c](https://eathyn/Eathyn/learn-release-it/commits/6193f5c0500abf36efd7cc30766d88f17fe88402))
+
 # 1.1.0 (2026-01-04)
 
 
